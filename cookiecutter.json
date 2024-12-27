@@ -1,0 +1,6 @@
+{
+  "project_name": "Go project",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+  "description": "Your new go project",
+  "author": "forkbombeu"
+}
